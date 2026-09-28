@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-slab-allocator-kernel-memory-cache-skill"
+version = "1.0.0"
+description = "Kernel-style Slab memory allocator with fixed-size cache pools, freelists, and slab expansion"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
